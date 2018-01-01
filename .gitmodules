@@ -1,0 +1,3 @@
+[submodule "labview-gmaps"]
+	path = labview-gmaps
+	url = https://github.com/ni/labview-gmaps.git
